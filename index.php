@@ -1,5 +1,5 @@
 <?php
-die();
+
 if (isset($_POST['calc'])) {
     $num1 = intval($_POST['num_one']);
     $num2 = intval($_POST['num_two']);
